@@ -35,3 +35,53 @@ Learn and apply foundational HTML, CSS, and JavaScript concepts.
 > All files are in one folder and ready to run. No setup required!
 
 Happy Coding! 💻✨
+
+# Task 2 - Intermediate HTML, CSS, and JavaScript Project
+
+## 🎯 Objective:
+Enhance HTML and CSS skills, and learn JavaScript for DOM manipulation.
+
+---
+
+## ✅ Features Included:
+
+### 1. Create a Contact Form Using HTML and CSS
+- A styled form that collects **Name** and **Email**.
+- Responsive form layout inside a neat box design.
+- Input validation ensures the **email field includes '@'**.
+
+### 2. Add JavaScript Form Validation
+- Checks that all required fields are filled.
+- Ensures the **email field contains '@'**.
+- Displays an alert for success or error.
+
+### 3. Create a Responsive Layout Using Flexbox and CSS Grid
+- Includes a **navigation bar** with links: Home | About | Contact.
+- Below the navbar, there are **three responsive boxes** that adjust layout based on screen size.
+
+### 4. Develop a Dynamic To-Do List Using JavaScript
+- Allows adding new to-do items.
+- Each item has **Edit, Save, Cancel, and Delete** buttons.
+- Fully interactive and styled using CSS for better UX.
+
+---
+
+## 📁 Files in this Project:
+- `Task2.html` – The main structure and layout
+- `Task2.css` – Styling for all elements
+- `Task2.js` – JavaScript logic for form and list
+
+---
+
+## 🛠️ How to Run:
+1. Download and unzip the `Task2.zip` folder.
+2. Open `Task2.html` in your browser.
+3. Test:
+   - The Contact Form with email validation
+   - Responsive boxes and navbar layout
+   - Dynamic To-Do List functionality
+
+---
+
+Made with 💻 for Task 2 assignment – by **Harsh Kumar**
+
