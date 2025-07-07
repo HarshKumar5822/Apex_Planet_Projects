@@ -113,5 +113,48 @@ The project is packed into a ZIP file named `Task3`.
 ✨ This task demonstrates my understanding of responsive design, dynamic JS components, and real-time data integration.  
 Thanks for checking it out!
 
+# Task 4 Description
+
+This repository contains my **fourth task** from the **ApexPlanet Internship**.  
+It involves building multiple full projects using **HTML**, **CSS**, and **JavaScript** with real-world functionality.
+
+## ✅ Objective:
+Combine HTML, CSS, and JavaScript to build fully functioning, interactive, and responsive web projects.
+
+## 📁 Task Content:
+
+The project is packed into a ZIP file named `Task-4`.
+
+### How to Use:
+1. **Download** the ZIP file.
+2. **Extract** (unzip) the folder.
+3. Inside the extracted folder, you'll find **3 separate project folders**. Each folder contains its own HTML, CSS, and JavaScript files.
+4. Navigate to the **Portfolio Website** folder.
+5. Open the `index.html` file in your browser to view the output.
+6. From the portfolio homepage, you can directly navigate to the **To-Do List** and **Product Listing Page** using the buttons provided.
+
+---
+
+### 🔧 What’s Inside:
+
+#### 1. Build a Personal Portfolio Website:
+- **Objective:** Showcase skills and projects in a professional, multi-page website.
+- **Actions:** Includes an "About", "Projects", and "Contact" section. Fully responsive design.
+
+#### 2. Create a To-Do List or Note-Taking App with Local Storage:
+- **Objective:** Implement saving and retrieving notes/tasks using `localStorage`.
+- **Actions:** Add, save, and delete tasks or notes – even after refreshing the page.
+
+#### 3. Develop a Product Listing Page with Filtering and Sorting Options:
+- **Objective:** Create a dynamic interface with filter/sort functionality.
+- **Actions:** Users can filter products by category or price, and sort based on rating or other criteria.
+
+---
+
+🌟 This task helped me implement everything I've learned into full mini-projects.  
+Excited to keep building and improving!
+
+
+
 
 
