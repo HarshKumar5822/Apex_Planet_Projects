@@ -85,3 +85,33 @@ Enhance HTML and CSS skills, and learn JavaScript for DOM manipulation.
 
 Made with 💻 for Task 2 assignment – by **Harsh Kumar**
 
+# Task 3 Description
+
+This repository contains my third task for the **ApexPlanet Internship**.  
+It focuses on more advanced **HTML**, **CSS**, and **JavaScript** concepts to build interactive and responsive websites.
+
+## ✅ Objective:
+Gain advanced skills in CSS and JavaScript by implementing:
+- Responsive design with media queries
+- Interactive UI elements like quizzes or carousels
+- Fetching and displaying data from external APIs
+
+## 📁 Task Content:
+The project is packed into a ZIP file named `Task3`.
+
+### How to Run:
+1. **Download** the ZIP file.
+2. **Unzip** the folder.
+3. Inside the folder, you’ll find:
+   - `Task3.html` – Main HTML file for structure and layout.
+   - `Task3.css` – CSS file for styling and responsiveness.
+   - `Task3.js` – JavaScript file for interactivity and API handling.
+4. Open `Task3.html` in your browser to view the project.
+
+---
+
+✨ This task demonstrates my understanding of responsive design, dynamic JS components, and real-time data integration.  
+Thanks for checking it out!
+
+
+
