@@ -155,6 +155,68 @@ The project is packed into a ZIP file named `Task-4`.
 Excited to keep building and improving!
 
 
+# Task 5 – Final Project: Mini E-commerce Website
+
+This repository contains my **final task (Task 5)** for the **ApexPlanet Software Pvt Ltd 💼 Internship**.  
+It is a **Mini E-commerce Web Application** built using **HTML**, **CSS**, and **JavaScript**, with multiple files and features bundled together.
+
+---
+
+## ✅ Objective
+
+To build a complete capstone project that showcases:
+- Dynamic web functionalities
+- Performance optimization
+- Mobile-friendly and browser-compatible design
+
+---
+
+## 📁 Task Content
+
+### How to Use:
+
+1. **Download** the ZIP file named `Task 5`.
+2. **Extract** (unzip) the folder.
+3. Once unzipped, you'll see multiple files and folders including:
+   - HTML files (main: `index.html`)
+   - CSS files for styling
+   - JavaScript files for interactivity
+   - Images and assets
+4. Simply **open the `index.html`** file in your browser.
+5. The homepage will load, and you can start browsing the store interface.
+
+---
+
+## 🛍️ Features
+
+- **Add to Cart** – Select items and add them to your cart.
+- **Add to Wishlist** – Save products for later.
+- **Checkout** – Review items added to your cart.
+- **Responsive Design** – Works across desktop, tablet, and mobile.
+- **Cross-Browser Compatibility** – Tested on Chrome, Firefox, Safari, and mobile browsers.
+- **Multiple Pages and Assets** – Includes structured folders for better scalability.
+
+---
+
+## 📌 Project Tasks
+
+### 1. Build a Full Web Application:
+- Developed a feature-rich mini e-commerce website with multiple pages and UI elements.
+
+### 2. Optimize for Performance:
+- Clean code structure, minimized CSS/JS, and used techniques to improve load time.
+
+### 3. Ensure Cross-Browser Compatibility and Mobile Responsiveness:
+- Responsive layout and tested across browsers to ensure consistent performance.
+
+---
+
+🚀 This is my final submission during my internship at **ApexPlanet Software Pvt Ltd 💼**.  
+Project made with dedication and learning by **Harsh Kumar**.
+
+Thank you for visiting the repository! 😊
+
+
 
 
 
